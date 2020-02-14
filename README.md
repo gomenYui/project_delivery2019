@@ -21,5 +21,3 @@ Create actual user interface and import to Unreal Engine: after I created the ar
 
 Graphic design: Based on project requirements and guidelines, we created some promotion materials for the game, such as poster, promotion video and user manual. Like the real in-market games, the promotion materials can help new customer to see the game type and background clear in the first look. My contribution for this part is created the developer logo (squad logo), design and draw the game promotional materials such as poster and flyer, and work with other team members to prepare slides and promotion video for game presentation and introduction. Other than that, I also edited and worked on illustrations for the game start page, main page and promotional materials. 
 
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gomenYui/project_delivery2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
